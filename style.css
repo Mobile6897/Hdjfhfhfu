@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(46, 127, 197);
+    background-image: linear-gradient(to right, gold, blue);
+}
+.name{
+    font-size: 100px;
+    font-family: fantasy;
+    text-align: center;
+}
+.bloak{
+    width: 200px;
+    height: 200px;
+    border: 5px red solid;
+    background-image: linear-gradient(to right, green, red);
+}
+.life{
+    font-family: fantasy;
+    font-size: 60px;
+}
+.p1{
+    color: rgb(53, 240, 6);
+    font-family: sans-serif;
+}
+.m{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 60px;
+}
+.mmm{
+    color: rgb(53, 240, 6);
+    font-family: sans-serif;
+    font-size: 40px;
+}
+.mk{
+    text-align: center;
+    font-size: 100px;
+    font-family: fantasy;
+}
+.mnd{
+    font-family: fantasy;
+    font-size: 60px;
+}
+.lix{
+    color: rgb(53, 240, 6);
+    font-family: sans-serif;
+    font-size: 40px;
+}
+h5{
+    text-align: center;
+}
